@@ -36,8 +36,8 @@
 
 ![vamika](https://images.news18.com/ibnlive/uploads/2021/07/1626055826_anushka-virat.jpg?im=FitAndFill,width=1200,height=1200)
 
-Sno|Name
-----|----
-1|Bhavya
-2|Bhavana
-3|Usha
+Sno|Name|emoji
+----|----|----
+1|Bhavya| 🥉
+2|Bhavana| 🥈
+3|Usha| 🥇
